@@ -1,0 +1,5 @@
+package com.franam.microserviciousuarios.controllers;
+
+public class AlumnoController {
+
+}

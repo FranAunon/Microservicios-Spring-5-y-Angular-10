@@ -1,0 +1,5 @@
+package com.franam.microserviciousuarios.services;
+
+public interface AlumnoService {
+
+}

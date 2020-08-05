@@ -1,0 +1,9 @@
+package com.franam.microserviciousuarios.models.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.franam.microserviciousuarios.models.entity.Alumno;
+
+public interface AlumnoRepository implements CrudRepository<Alumno, Long> {
+
+}
